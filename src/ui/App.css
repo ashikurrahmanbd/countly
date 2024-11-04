@@ -1,0 +1,12 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+body {
+  padding: 20px;
+  background-color: #000; /* Set body background color to black */
+  color: #fff; /* Set text color to white */
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
